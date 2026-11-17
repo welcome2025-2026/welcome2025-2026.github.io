@@ -6,8 +6,14 @@ This repository acts as the **Permanent Redirect Gateway** for the Faculty of Co
 👉 **https://welcome2025-2026.github.io**
 
 ### Print-Ready QR Codes:
-- **PNG (1000x1000 High-Res):** [`qr-code-welcome2025-2026.png`](qr-code-welcome2025-2026.png)
-- **Vector SVG (Print Quality):** [`qr-code-welcome2025-2026.svg`](qr-code-welcome2025-2026.svg)
+
+#### 1. White with Transparent Background (For Dark Posters, Banners & Maroon Backgrounds):
+- **PNG (1000×1000 Transparent):** [`qr-code-welcome2025-2026-white-transparent.png`](qr-code-welcome2025-2026-white-transparent.png)
+- **Vector SVG (Transparent Vector):** [`qr-code-welcome2025-2026-white-transparent.svg`](qr-code-welcome2025-2026-white-transparent.svg)
+
+#### 2. Classic Black on White:
+- **PNG (1000×1000 High-Res):** [`qr-code-welcome2025-2026.png`](qr-code-welcome2025-2026.png)
+- **Vector SVG:** [`qr-code-welcome2025-2026.svg`](qr-code-welcome2025-2026.svg)
 
 ### Maintenance:
 To change the destination URL in the future (without re-printing QR codes):
