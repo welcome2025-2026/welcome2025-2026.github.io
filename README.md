@@ -20,6 +20,3 @@ To change the destination URL in the future (without re-printing QR codes):
 1. Open `index.html`
 2. Update the `TARGET_URL` variable to your new destination domain.
 3. Commit changes.
-
----
-*Maintained officially by the Faculty of Computing & Technology Orientation Committee.*
